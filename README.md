@@ -1,4 +1,4 @@
-# data-standardization-lab
+# Limpieza y actualizacion excel-lab
 # Proyecto: Limpieza de Códigos y Actualización de Precios en Excel
 
 ## 📋 ¿Qué hace este proyecto?
